@@ -1,5 +1,4 @@
-# Titanic_EDA_Project
-## Key Insights from Titanic EDA
+# Key Insights from Titanic EDA
 
 ## Strong Gender Effect:
 Female passengers had a significantly higher survival rate (~74%) compared to males (~19%), indicating that gender was the strongest determinant of survival.
